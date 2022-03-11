@@ -1,0 +1,3 @@
+<ot_conf>
+  <server ip="10.1.54.53" database="fut_ultra_config" uid="shengli" pwd="shengli0" port="3306" quote_srv_port="33011" source_file="quote_lev1_record_info_20220125_0.log" />
+</ot_conf>
